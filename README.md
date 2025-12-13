@@ -10,6 +10,9 @@ Skills: REACT / JS / HTML / CSS/Tailwind
 - 🌱 I’m currently learning JavaScript  
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
+# Hi, I am Peyal Hasan 👋
+
+![Peyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeyalHasan&show_icons=true&theme=dark)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PeyalHasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/peyalhasan143/](https://www.linkedin.com/in/peyalhasan143/))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/peyal143)  
