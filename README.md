@@ -48,10 +48,7 @@ Web Developer | Frontend Specialist | Tech Enthusiast | Student
 ---
 
 ### 📊 Coding Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeyalHasan&show_icons=true&theme=radical&hide_border=true&title_color=00D2FF&icon_color=00D2FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeyalHasan&layout=compact&theme=radical&hide_border=true&title_color=00D2FF" width="45%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeyalHasan&theme=radical&hide_border=true&stroke=00D2FF&ring=00D2FF" width="100%" />
