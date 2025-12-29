@@ -1,55 +1,61 @@
-# <p align="center">✨ Welcome to My Code Space! ✨</p>
+![My card name](https://cardivo-beta.vercel.app/api?name=Peyal%20Hasan&description=Hi%20There,%20I'm%20a%20Passionate%20Frontend%20Developer%20from%20Bangladesh%20🇧🇩.%20Currently%20studying%20Web%20Development%20and%20building%20interactive%20web%20experiences%20🚀&image=https://avatars.githubusercontent.com/PeyalHasan&pattern=ticTacToe&colorPattern=%2338B2AC&opacity=0.5&site=https://facebook.com/peyal143&instagram=peyal143&github=PeyalHasan)
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=PeyalHasan&label=PROFILE+VIEWS&color=38B2AC&style=flat"/>
+<a href="https://github.com/PeyalHasan"><img src="https://img.shields.io/github/followers/PeyalHasan?label=followers&style=social"/></a>
+</div>
+
+<h3 align="center">
+Web Developer | Frontend Specialist | Tech Enthusiast | Student
+</h3>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### All About Me 👤
+- 🤵 My name is `Peyal Hasan`
+- 🗣️ People call me `Peyal`
+- 🏡 I live in `Bangladesh` 🇧🇩
+- 🏫 `Web Development` student
+- ✨ Currently building projects with `React` & `Tailwind CSS`
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ⚙️ Development Tools
+- 🖊️ Text Editor & IDE:
+  - Visual Studio Code (Main)
+- 🌐 Browser:
+  - Google Chrome
+  - Brave
+- 💻 Stuff:
+  - Windows 11
+  - Git & GitHub
+
+### Contact
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/peyal143)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peyalhasan143/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peyalhasan@example.com)
+
+### Skill Set (in icons)
+#### Programming & Scripting
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+#### Front-End Frameworks & Tools
+[![My Frontend Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite,figma)](https://skillicons.dev)
+
+#### Deployment & Version Control
+[![My Other Skills](https://skillicons.dev/icons?i=github,git,vercel,netlify,vscode,postman)](https://skillicons.dev)
+
+### 📊 My Github Stats
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHXUNIMyAFSuA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738686998585?e=1744243200&v=beta&t=mAKDkfSdTkw6VGqxo_Kxl9jcxiCAlkG6zKoNSogdMcQ" alt="Peyal's Banner" width="100%" style="border-radius: 12px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PeyalHasan&show_icons=true&theme=tokyonight&hide_border=true" alt="Peyal's Stats" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;React+JS+Specialist;Tailwind+CSS+Expert;UI/UX+Enthusiast;Turning+Ideas+into+Reality+🚀" alt="Typing SVG" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeyalHasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
----
-
-### 🚀 About Me
-I'm **Peyal Hasan**, a passionate **Frontend Web Developer** from 🇧🇩. I love crafting beautiful, responsive, and user-centric websites. I am currently focusing on building advanced web interfaces using **React** and exploring **Firebase** for backend services.
-
-* 🔭 **Current Focus:** Developing high-end UI components.
-* 🌱 **Learning:** Advanced React Hooks and Animation Libraries (Framer Motion).
-* 💬 **Ask me about:** HTML, CSS, JavaScript, and Tailwind.
-* ⚡ **Goal:** To create seamless digital experiences that make an impact.
-
----
-
-### 🛠️ My Tech Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github,vscode,figma,postman,vercel" />
-</p>
-
----
-
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeyalHasan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeyalHasan&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PeyalHasan&theme=tokyonight&no-bg=true&margin-w=15" width="100%" />
-</p>
-
----
-
-### 🤝 Let's Connect
-<p align="center">
-<a href="https://www.linkedin.com/in/peyalhasan143/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/peyal143" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://github.com/PeyalHasan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PeyalHasan&color=38B2AC&style=flat-square&label=Profile+Views" alt="Peyal Hasan" />
 </p>
