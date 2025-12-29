@@ -1,6 +1,6 @@
 # ✨ Welcome to My Creative Space ✨
 
-![My card name](https://cardivo.vercel.app/api?name=Peyal%20Hasan&description=Hi%20There,%20I'm%20a%20Passionate%20Frontend%20Developer%20from%20Bangladesh%20🇧🇩.%20Currently%20studying%20Web%20Development%20and%20building%20interactive%20web%20experiences%20🚀&image=https://avatars.githubusercontent.com/PeyalHasan&backgroundColor=%23111111&pattern=bubbles&colorPattern=%FFFFF&opacity=1&site=https://facebook.com/peyal143&instagram=peyal143&github=PeyalHasan)
+![My card name](https://cardivo.vercel.app/api?name=Peyal%20Hasan&description=Hi%20There,%20I'm%20a%20Passionate%20Frontend%20Developer%20from%20Bangladesh%20🇧🇩.%20Currently%20studying%20Web%20Development%20and%20building%20interactive%20web%20experiences%20🚀&image=https://avatars.githubusercontent.com/PeyalHasan&backgroundColor=%23ffffff&pattern=bubbles&colorPattern=%2300D2FF&opacity=0.3&fontColor=%23000000&site=https://facebook.com/peyal143&instagram=peyal143&github=PeyalHasan)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
