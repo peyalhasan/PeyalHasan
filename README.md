@@ -1,26 +1,63 @@
-![💡 Web Dev | ⚙️ AI Explorer | 🎯 Lifelong Learner](https://media.licdn.com/dms/image/v2/D5616AQHXUNIMyAFSuA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738686998585?e=1744243200&v=beta&t=mAKDkfSdTkw6VGqxo_Kxl9jcxiCAlkG6zKoNSogdMcQ)
-### Hi there 👋, I'm Peyal Hasan👨‍💻
-#### 💡 Web Dev | ⚙️ AI Explorer | 🎯 Lifelong Learner
-![💡 Web Dev | ⚙️ AI Explorer | 🎯 Lifelong Learner]
-Hi, I’m Peyal! I'm passionate about web development and currently on a journey to become a skilled developer. With a focus on HTML, CSS, and JavaScript, I'm dedicated to building user-friendly, efficient websites. My interest doesn't stop at front-end development—I’m also exploring technologies like React, Node.js, and MongoDB to enhance my full-stack development skills
+# <p align="center">Hi there! I'm Peyal Hasan 👋</p>
 
-Skills: REACT / JS / HTML / CSS/Tailwind
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHXUNIMyAFSuA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738686998585?e=1744243200&v=beta&t=mAKDkfSdTkw6VGqxo_Kxl9jcxiCAlkG6zKoNSogdMcQ" alt="Peyal's Banner" width="100%" style="border-radius: 10px;">
+</p>
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript  
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
-# Hi, I am Peyal Hasan 👋
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer+In+Making;React+JS+Enthusiast;AI+and+Tech+Explorer;Lifelong+Learner" alt="Typing SVG" /></a>
+</p>
 
-![Peyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeyalHasan&show_icons=true&theme=dark)
+---
 
+### 💫 About Me
+I am a dedicated **Web Developer** from Bangladesh with a mission to build clean, efficient, and user-friendly digital products. My journey started with the core of the web (**HTML/CSS/JS**), and now I am mastering the **MERN Stack** to build scalable full-stack applications.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PeyalHasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/peyalhasan143/](https://www.linkedin.com/in/peyalhasan143/))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/peyal143)  
+- 🔭 **Focusing on:** Building high-quality, responsive web projects.
+- 🌱 **Learning:** Deepening my knowledge in **Node.js, Express, and MongoDB**.
+- 💬 **Ask me about:** JavaScript, React, or why UI/UX matters so much!
+- ⚡ **Goal:** To create impact through code and continuous innovation.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PeyalHasan)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeyalHasan)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ My Tech Toolbox
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/PeyalHasan/contributions?format=svg&private=false)  
+---
 
+### 📊 GitHub Analysis
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PeyalHasan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Peyal's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeyalHasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="41.5%" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PeyalHasan&theme=tokyonight&margin-w=15&no-bg=true" alt="Peyal's Trophies" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/peyalhasan143/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/peyal143" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://github.com/PeyalHasan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quotes" />
+</p>
+
+<p align="center">
+  <b>Visitor Count</b><br>
+  <img src="https://komarev.com/ghpvc/?username=PeyalHasan&color=38B2AC&style=flat-square&label=PROFILE+VIEWS" alt="Peyal Hasan" />
+</p>
