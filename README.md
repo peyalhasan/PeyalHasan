@@ -30,9 +30,10 @@
 
 ### 📊 Coding Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeyalHasan&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeyalHasan&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PeyalHasan&show_icons=true&theme=radical&hide_border=true&title_color=00D2FF&icon_color=00D2FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeyalHasan&layout=compact&theme=radical&hide_border=true&title_color=00D2FF" width="45%" />
 </p>
+
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
