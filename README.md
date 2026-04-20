@@ -44,7 +44,7 @@
 ### Skill Set 💡
 
 #### Programming & Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,tailwind,bootstrap,vite,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,rtk,redux,tailwind,bootstrap,vite,figma&theme=dark)](https://skillicons.dev)
 
 #### Tools & Deployment
 [![My Other Skills](https://skillicons.dev/icons?i=github,git,vercel,netlify,vscode,postman,firebase&theme=dark)](https://skillicons.dev)
