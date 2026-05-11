@@ -50,13 +50,7 @@
 [![My Other Skills](https://skillicons.dev/icons?i=github,git,vercel,netlify,vscode,postman,firebase&theme=dark)](https://skillicons.dev)
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=peyalhasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=peyalhasan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=peyalhasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=peyalhasan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center" width="100%">
+  <img src="https://raw.githubusercontent.com/peyalhasan/peyalhasan/stats-output/stats.svg" width="49%" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/peyalhasan/peyalhasan/languages-output/languages.svg" width="49%" alt="languages graph" />
+</div>
