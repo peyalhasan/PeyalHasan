@@ -51,7 +51,8 @@
 
 ---
 
-[![Peyal's Stats](https://github-readme-stats.vercel.app/api?username=peyalhasan&theme=vision-glow)](https://github.com/peyalhasan)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peyalhasan&show_icons=true)
+
 
 ### 📊 Coding Insights
 
