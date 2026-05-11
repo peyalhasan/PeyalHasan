@@ -82,12 +82,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peyalhasan&show_icons=true&theme=dark&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peyalhasan&layout=compact&theme=dark&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=peyalhasan&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peyalhasan&layout=compact&theme=dark" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peyalhasan&theme=dark&hide_border=false" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peyalhasan&theme=dark" width="97%" />
 </p>
 
   <b>Thanks for visiting my profile! 🚀</b><br>
