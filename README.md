@@ -82,8 +82,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=peyalhasan&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peyalhasan&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=peyalhasan&show_icons=true&theme=dark" height="50%" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peyalhasan&layout=compact&theme=dark" height="50%" width="48%" />
 </p>
 
 <p align="center">
