@@ -50,7 +50,22 @@
 [![My Other Skills](https://skillicons.dev/icons?i=github,git,vercel,netlify,vscode,postman,firebase&theme=dark)](https://skillicons.dev)
 
 ---
-<div align="center" width="100%">
-  <img src="https://raw.githubusercontent.com/peyalhasan/peyalhasan/stats-output/stats.svg" width="49%" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/peyalhasan/peyalhasan/languages-output/languages.svg" width="49%" alt="languages graph" />
-</div>
+
+### 📊 Coding Insights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeyalHasan&theme=radical&hide_border=true&stroke=00D2FF&ring=00D2FF" width="100%" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b><br>
+  Feel free to explore my repositories and connect with me!
+</p>
