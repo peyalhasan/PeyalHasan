@@ -51,6 +51,8 @@
 
 ---
 
+![Peyal's GitHub Summary](https://github-readme-stats.vercel.app/api?username=peyalhasan&show_icons=true&theme=vision-glow&hide_border=true&title_color=ff5277&icon_color=ff5277&text_color=ffffff&bg_color=0d1117)
+
 ### 📊 Coding Insights
 
 <p align="center">
